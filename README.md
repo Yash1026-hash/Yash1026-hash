@@ -1,5 +1,6 @@
+$ cat /Users/yash/CLAW/README.md
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=180§ion=header&text=Kamsani%20Yashwanth%20Chowdhary&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&RTL%20Design%20•%20FPGA%20•%20Computer%20Vision%20•%20ML&descAlignY=52&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=180§ion=header&text=Kamsani%20Yashwanth%20Chowdhary&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=RTL%20Design%20•%20FPGA%20•%20Verification%20•%20Computer%20Vision%20•%20ML%20•%20Edge%20AI&descAlignY=52&descAlign=50" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=700&color=F76C6C¢er=true&vCenter=true&width=650&lines=RTL+Designer+%7C+FPGA+Developer+%7C+Verification+Engineer;ML+Engineer+%7C+Computer+Vision+%7C+Edge+AI;Vice+President+%40+Aparmaya+Club;Treasurer+%40+IEEE+ComSoc;Top+3+%40+IISc+Bangalore+Hackathon+2024" alt="Typing SVG" /></a>
 
@@ -12,122 +13,169 @@
 
 📍 Hyderabad, Telangana · 📞 +91 72073 30433
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 Electronics & VLSI
-
-| Category | Skills |
-|----------|--------|
-| **HDL** | Verilog, SystemVerilog, RTL Design, FSM |
-| **Verification** | UVM, ATPG, D-Algorithm, SCOAP |
-| **EDA Tools** | Vivado ML, ModelSim, Cadence Virtuoso |
-| **Physical Design** | Floorplanning, P&R, HPWL, RC-Grid |
-| **DSP** | FIR/IIR, FFT, DDS, CORDIC |
-| **Protocols** | AXI4-Stream, SPI, I2C, UART |
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 CS & AI
-
-| Category | Skills |
-|----------|--------|
-| **Languages** | Python, C, C++, SQL, Bash, MATLAB |
-| **ML/DL** | PyTorch, TensorFlow, YOLOv8, Scikit-learn |
-| **Vision** | OpenCV, Object Detection, Segmentation |
-| **DevOps** | Docker, FastAPI, Git, Linux, REST APIs |
-| **Embedded** | Raspberry Pi 4, ESP32, Edge AI |
-| **Concepts** | RL, CNN, Transfer Learning, PID |
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Projects
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                          VLSI & HARDWARE DESIGN                             │
-├────────────┬────────────────────────────────────────────────────────────────┤
-│ 🎛️ FPGA   │ 5-IP AXI4-Stream DSP pipeline on Artix-7 FPGA                 │
-│   DSP Chain│ DDS · FIR · CIC · FFT · CORDIC · 31-tap Hamming FIR          │
-│            │ ILA debugging · Multi-clock domain · Vivado ML                │
-├────────────┼────────────────────────────────────────────────────────────────┤
-│ 🔥 Thermal │ Hybrid PSO + Simulated Annealing for floorplan optimization  │
-│   VLSI     │ HPWL · Routing congestion · Thermal hotspots · RC-grid       │
-│            │ MCNC benchmarks · Cost-function driven macro placement        │
-├────────────┼────────────────────────────────────────────────────────────────┤
-│ ✅ UVM    │ True Dual-Port RAM · BRAM inference · Zynq FPGA               │
-│   Verify   │ Complete UVM env · Functional coverage · ATPG · SCOAP        │
-│            │ Constrained-random testing · Waveform verification            │
-├────────────┼────────────────────────────────────────────────────────────────┤
-│                          AI & SOFTWARE ENGINEERING                          │
-├────────────┼────────────────────────────────────────────────────────────────┤
-│ 🚦 Traffic│ 🏆 Top 3 @ IISc Bangalore (200+ teams)                        │
-│   Analyzer │ YOLOv8l · OpenCV · Multi-threaded · Docker · Edge AI         │
-├────────────┼────────────────────────────────────────────────────────────────┤
-│ 🥭 Mango  │ Multi-class crop disease detection · YOLOv8                   │
-│   Disease  │ Custom annotated dataset · Ag-IoT edge deployment            │
-├────────────┼────────────────────────────────────────────────────────────────┤
-│ 🔄 Chip   │ OpenEnv RL for ASIC sign-off review                           │
-│   Cycle    │ Synthesis QoR · STA debug · MCMM triage · FastAPI · HF Spaces│
-└────────────┴────────────────────────────────────────────────────────────────┘
-```
-
----
+<br/>
 
 <div align="center">
 
-| Role | Organization | Period |
-|------|-------------|--------|
-| 🚀 **Vice President** | Aparmaya Club (AI & Autonomous Systems) | 2024 – Present |
-| 💰 **Treasurer** | IEEE ComSoc Student Chapter, KL University | 2025 – Present |
+<b><big>🛠️ Skills</big></b>
 
-> Leading 30+ engineers · "Samyak" tech fest (200+ attendees) · 40% fewer integration defects
+| Category | Skills |
+|----------|--------|
+| **HDL & Design** | Verilog, SystemVerilog, RTL, FSM |
+| **Verification** | UVM, ATPG, D-Algorithm, SCOAP |
+| **EDA Tools** | Vivado ML, ModelSim, Cadence Virtuoso |
+| **DSP & Protocols** | FIR/IIR, FFT, DDS, CORDIC, AXI4-Stream, SPI, I2C, UART |
+| **Languages** | Python, C, C++, SQL, Bash, MATLAB |
+| **ML / Computer Vision** | PyTorch, TensorFlow, YOLOv8, OpenCV |
+| **DevOps & Deployment** | Docker, FastAPI, Git, Linux, REST APIs |
+| **Embedded / Edge** | Raspberry Pi 4, ESP32, Edge AI, RL, CNN |
 
----
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🚀 Projects
+
+<table>
+<tr>
+<th width="25%">Project</th>
+<th width="50%">Description</th>
+<th width="25%">Stack</th>
+</tr>
+<tr>
+<td><b>🎛️ FPGA DSP Chain</b></td>
+<td>5-IP AXI4-Stream pipeline on Artix-7 · DDS + FIR + CIC + FFT + CORDIC · 31-tap Hamming FIR</td>
+<td><code>SystemVerilog</code> <code>Vivado</code></td>
+</tr>
+<tr>
+<td><b>🔥 Thermal Floorplanning</b></td>
+<td>Hybrid PSO + SA optimizer · HPWL · RC-grid · MCNC benchmarks</td>
+<td><code>Python</code> <code>MATLAB</code></td>
+</tr>
+<tr>
+<td><b>✅ UVM Verification</b></td>
+<td>True DPRAM · BRAM · Zynq · Full UVM env · ATPG · SCOAP</td>
+<td><code>SystemVerilog</code> <code>UVM</code></td>
+</tr>
+<tr>
+<td><b>🚦 Traffic Analyzer 🏆</b></td>
+<td><b>Top 3 @ IISc Bangalore</b> (200+ teams) · YOLOv8l · Dockerized edge deployment</td>
+<td><code>Python</code> <code>Docker</code></td>
+</tr>
+<tr>
+<td><b>🥭 Mango Disease Detector</b></td>
+<td>Multi-class YOLOv8 · custom leaf dataset · Ag-IoT edge</td>
+<td><code>Python</code> <code>YOLOv8</code></td>
+</tr>
+<tr>
+<td><b>🔄 Chip Cycle RL</b></td>
+<td>ASIC sign-off RL env · synthesis QoR · STA · FastAPI · HF Spaces</td>
+<td><code>Python</code> <code>FastAPI</code></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+## Leadership
+
+<table>
+<tr>
+<th>Role</th>
+<th>Organization</th>
+<th>Period</th>
+</tr>
+<tr>
+<td><b>Vice President</b></td>
+<td>Aparmaya Club (AI & Autonomous Systems)</td>
+<td>2024 – Present</td>
+</tr>
+<tr>
+<td><b>Treasurer</b></td>
+<td>IEEE ComSoc Student Chapter</td>
+<td>2025 – Present</td>
+</tr>
+</table>
+
+<i>Leading 30+ engineers · "Samyak" tech fest (200+ attendees)</i>
+
+<br/>
 
 ## 🎓 Education
 
 | Degree | Institution | Year | CGPA |
 |--------|------------|------|:----:|
-| **B.Tech ECE (VLSI)** | KL Deemed University, Hyderabad | May 2027 | **8.29** |
+| **B.Tech ECE (VLSI)** | KL Deemed University | May 2027 | **8.29** |
 | **Diploma ECE** | Anurag Engineering College | 2024 | **9.18** |
 | **SSC** | ZPHS Konijerla | 2021 | **10.00** |
 
----
+<br/>
 
 ## 🏆 Honors
 
-🥉 **IISc Bangalore** — Urban Vision Hackathon Top 3 / 200+ teams  
-🥉 **VR Siddhartha** — Hackathon Top 3 / 150+ teams  
-📡 **IEEE Outreach** — 5+ workshops reaching 1,000+ students  
+🥉 <b>IISc Bangalore</b> — Urban Vision Hackathon Top 3 (200+ teams)<br/>
+🥉 <b>VR Siddhartha</b> — Hackathon Top 3 (150+ teams)<br/>
+📡 <b>IEEE Outreach</b> — 5+ workshops · 1,000+ students
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
 
 ## 📊 GitHub
 
+<table>
+<tr>
+<td>
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=Yash1026-hash&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6f61&icon_color=ff6f61&text_color=c9d1d9)]()
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yash1026-hash&theme=radical&hide_border=true&background=0d1117&stroke=ff6f61&ring=ff6f61&fire=ff6f61&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ff6f61&sideLabels=c9d1d9&dates=8b949e)]()
+
+</td>
+</tr>
+</table>
+
 [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Yash1026-hash&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=ff6f61&line=ff6f61&point=ff6f61&area_color=ff6f61)]()
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-```
-  "Bridging the gap between Silicon and Software — one RTL block and one model at a time."
-```
+<br/>
+
+<pre>
+  "Building at the intersection of hardware and intelligence — one RTL block and one model at a time."
+</pre>
+
+<br/>
 
 [![](https://komarev.com/ghpvc/?username=Yash1026-hash&color=ff6f61&style=for-the-badge&label=Visitors)]()
 [![](https://img.shields.io/badge/-Open%20Source%20❤️-ff6f61?style=for-the-badge)]()
 [![](https://img.shields.io/badge/-Let's%20Connect!-0A66C2?style=for-the-badge)](https://linkedin.com/in/kamsani-yashwanth-chowdhary)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=100§ion=footer" width="100%" />
 
