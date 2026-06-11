@@ -10,7 +10,7 @@
 <a href="https://github.com/Yash1026-hash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href=""><img src="https://img.shields.io/badge/IEEE_ComSoc-00629B?style=for-the-badge&logo=IEEE&logoColor=white" /></a>
 
-📍 Hyderabad, Telangana 
+📍 Hyderabad, Telangana
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
@@ -257,13 +257,63 @@
 
 <br/><br/>
 
-## 🎓 Education
+## ⚡ Current Mission
 
-| Degree | Institution | Year | CGPA |
-|--------|------------|------|:----:|
-| **B.Tech ECE (VLSI)** | KL Deemed University | May 2027 | **8.29** |
-| **Diploma ECE** | Anurag Engineering College | 2024 | **9.18** |
-| **SSC** | ZPHS Konijerla | 2021 | **10.00** |
+<br/>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/🧠_Learning-FF6F00?style=for-the-badge" />
+<br/>
+<b>Advanced VLSI Physical Design</b>
+<br/>
+<sub>Clock tree synthesis · IR-drop analysis · DFM</sub>
+<br/>
+<img src="https://img.shields.io/badge/In_Progress-FF6F00?style=flat-square" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/🛠️_Building-00C853?style=for-the-badge" />
+<br/>
+<b>AI-Assisted EDA Tools</b>
+<br/>
+<sub>RL for APR optimization · ML-guided timing closure</sub>
+<br/>
+<img src="https://img.shields.io/badge/R%26D-00C853?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/✍️_Writing-00629B?style=for-the-badge" />
+<br/>
+<b>Tech Blog on VLSI + AI</b>
+<br/>
+<sub>Sharing insights on design automation</sub>
+<br/>
+<img src="https://img.shields.io/badge/Coming_Soon-00629B?style=flat-square" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/🏆_Hackathon-7B2FBE?style=for-the-badge" />
+<br/>
+<b>Open Source Contributions</b>
+<br/>
+<sub>EDA tooling · UVM libraries · CV datasets</sub>
+<br/>
+<img src="https://img.shields.io/badge/Active-7B2FBE?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+<sub>⚡ Always exploring the intersection of silicon design and machine intelligence</sub>
 
 <br/>
 
