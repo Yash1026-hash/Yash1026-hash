@@ -1,59 +1,49 @@
-# ─── ⋆ 🪐 𝙆AMSANI 𝙔𝘼𝙎𝙃𝙒𝘼𝙉𝙏𝙃 CHOWDHARY ───
+# KAMSANI YASHWANTH CHOWDHARY (KIRAN)
+**Hardware-Software Integration Engineer | B.Tech in Electronics & Communication Engineering** *Specializing in VLSI, Edge AI, and Systems Engineering*
 
-<p align="center">
-  <b>Architecting Silicon. Directing Visuals. Engineering the Future.</b>
-</p>
-
-<p align="center">
-  I operate in the deliberate space where <b>deep hardware logic</b> meets <b>high-fidelity creative media</b>. By day, I design digital micro-architectures, optimize FPGA layouts, and train edge AI networks. By night, I color-grade, slice frames, and craft visual pacing that tells a story.
-</p>
+[LinkedIn](https://linkedin.com/in/chowdhary) • [Email](mailto:your.email@example.com) • [Portfolio](https://github.com/Yash1026-hash/portfolio)
 
 ---
 
-## 🎭 The Dual Persona
-
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ The Silicon Alchemist</h3>
-      <p><i>Manipulating electrons, optimizing layouts, and giving hardware eyes.</i></p>
-      <ul>
-        <li><b>Logic & Frameworks:</b> Verilog HDL, Python, C++, Docker</li>
-        <li><b>VLSI & Circuits:</b> Cadence, Vivado, LTSpice, FPGA</li>
-        <li><b>Edge Intelligence:</b> OpenCV, Raspberry Pi, YOLO Architectures</li>
-        <li><b>Current Obsidian Node:</b> Designing autonomous vision systems for standalone agricultural drones.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎬 The Cinematic Weaver</h3>
-      <p><i>Capturing motion, mastering the timeline, and designing seamless experiences.</i></p>
-      <ul>
-        <li><b>The Suite:</b> DaVinci Resolve, Adobe Premiere Pro, CapCut</li>
-        <li><b>Aesthetic Code:</b> Executive Technical Sophistication</li>
-        <li><b>Front-End Canvas:</b> JavaScript, TailwindCSS, Fluid UI/UX</li>
-        <li><b>Current Timeline Render:</b> Directing clean, minimalist digital identities and high-impact tech narratives.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🚀 The Hardware-Software Bridge
+I bridge the gap between **Computer Science** and **Hardware Engineering**. My expertise spans designing digital micro-architectures (ECE) and deploying optimized, containerized AI models at the edge (CSE). I specialize in making intelligent software run efficiently on physical silicon.
 
 ---
 
-## 🌌 Ongoing Vectors & Research
+## 🛠️ Technical Matrix
 
-* 🛸 **Edge Autonomy:** Teaching standalone drones how to scan, adapt, and navigate complex environments without cloud dependencies.
-* 🔋 **Intelligent Power:** Mapping out scalable FPGA-based battery management algorithms to keep hardware alive longer.
-* 🗺️ **Algorithmic Harmony:** Utilizing Simulated Annealing ($SA$) and Particle Swarm Optimization ($PSO$) to solve complex, multi-variable physical layout problems.
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Computer Science & AI (CSE)** | Python, C++, Data Structures & Algorithms, YOLO v8, OpenCV, Docker, Git/GitHub |
+| **Electronics & Hardware (ECE)** | Verilog HDL, FPGA Prototyping, Cadence, Vivado, LTSpice, Embedded Systems |
+| **Systems & Infrastructure** | Raspberry Pi, Linux, Containerization, Environment Management (`chipcycle-env`) |
 
 ---
 
-## 📊 The Transmission Dashboard
+## 💎 Featured Engineering Repositories
+
+### ⚡ [Hybrid-Thermal-Floor-Planning-using-PSO-and-SA](https://github.com/Yash1026-hash/Hybrid-thermal-floor-planning-using-PSO-and-SA)
+* **ECE/CSE Intersection:** Developed a high-performance optimization framework for VLSI digital design.
+* Implemented Particle Swarm Optimization ($PSO$) and Simulated Annealing ($SA$) metaheuristics in Python to solve complex physical layout and thermal distribution challenges on-chip.
+
+### 🛸 [MANGO - Edge AI Object Detection](https://github.com/Yash1026-hash/MANGO)
+* **CSE Frameworks:** Built an end-to-end computer vision pipeline using the YOLO architecture for real-world deployment.
+* Optimized model inference constraints to ensure standalone reliability on edge devices for agricultural drone systems.
+
+### 🌊 [Quick-Rescue - Satellite Imaging & Routing](https://github.com/Yash1026-hash/Quick-Rescue)
+* **Full-Stack Engineering:** Developed a Python-based pathfinding system utilizing satellite imagery data to dynamically calculate safe routing during flood crises.
+
+---
+
+## 📊 Engineering Metrics & Analytics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Yash1026-hash&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash1026-hash&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-<p align="center">
-  <sub><i>"The best way to predict the future is to design the chip and direct the film yourself."</i></sub>
-</p>
+---
+
+## 🎖️ Key Highlights
+* **Hackathon-Proven:** Multiple podium finishes in national-level technical hackathons (including IISc Bangalore & VR Siddhartha) for deploying real-world embedded software solutions.
+* **Academic Foundation:** Maintaining a solid **8.29 CGPA** while balancing active club leadership roles.
