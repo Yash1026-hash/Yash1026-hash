@@ -1,4 +1,4 @@
-# ─── ⋆ 🪐 𝙆𝙄𝙍𝘼𝙉 𝙔𝘼𝙎𝙃𝙒𝘼𝙉𝙏𝙃 ───
+# ─── ⋆ 🪐 𝙆AMSANI 𝙔𝘼𝙎𝙃𝙒𝘼𝙉𝙏𝙃 CHOWDHARY ───
 
 <p align="center">
   <b>Architecting Silicon. Directing Visuals. Engineering the Future.</b>
