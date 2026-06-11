@@ -1,49 +1,247 @@
-# KAMSANI YASHWANTH CHOWDHARY 
-**Hardware-Software Integration Engineer | B.Tech in Electronics & Communication Engineering** *Specializing in VLSI, Edge AI, and Systems Engineering*
+<div align="center">
+  
+# 👋 Kamsani Yashwanth Chowdhary
 
-[LinkedIn](https://linkedin.com/in/chowdhary) • [Email](mailto:your.email@example.com) • [Portfolio](https://github.com/Yash1026-hash/portfolio)
+### ⚡ **ECE × CSE** — Bridging Silicon and Intelligence ⚡
 
----
+[![Email](https://img.shields.io/badge/-yashwanthchowdhary83@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yashwanthchowdhary83@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-kamsani--yashwanth--chowdhary-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamsani-yashwanth-chowdhary)
+[![GitHub](https://img.shields.io/badge/-@Yash1026--hash-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yash1026-hash)
+[![IEEE](https://img.shields.io/badge/-IEEE%20ComSoc-00629B?style=flat-square&logo=IEEE&logoColor=white)]()
 
-### 🚀 The Hardware-Software Bridge
-I bridge the gap between **Computer Science** and **Hardware Engineering**. My expertise spans designing digital micro-architectures (ECE) and deploying optimized, containerized AI models at the edge (CSE). I specialize in making intelligent software run efficiently on physical silicon.
-
----
-
-## 🛠️ Technical Matrix
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Computer Science & AI (CSE)** | Python, C++, Data Structures & Algorithms, YOLO v8, OpenCV, Docker, Git/GitHub |
-| **Electronics & Hardware (ECE)** | Verilog HDL, FPGA Prototyping, Cadence, Vivado, LTSpice, Embedded Systems |
-| **Systems & Infrastructure** | Raspberry Pi, Linux, Containerization, Environment Management (`chipcycle-env`) |
+📍 Hyderabad, Telangana · 📞 +91 72073 30433
 
 ---
 
-## 💎 Featured Engineering Repositories
+</div>
 
-### ⚡ [Hybrid-Thermal-Floor-Planning-using-PSO-and-SA](https://github.com/Yash1026-hash/Hybrid-thermal-floor-planning-using-PSO-and-SA)
-* **ECE/CSE Intersection:** Developed a high-performance optimization framework for VLSI digital design.
-* Implemented Particle Swarm Optimization ($PSO$) and Simulated Annealing ($SA$) metaheuristics in Python to solve complex physical layout and thermal distribution challenges on-chip.
+<!-- Dual Domain Architecture Banner -->
 
-### 🛸 [MANGO - Edge AI Object Detection](https://github.com/Yash1026-hash/MANGO)
-* **CSE Frameworks:** Built an end-to-end computer vision pipeline using the YOLO architecture for real-world deployment.
-* Optimized model inference constraints to ensure standalone reliability on edge devices for agricultural drone systems.
+```verilog
+module Yashwanth #(parameter DOMAIN = "ECE + CSE") (
+    input  wire        clk_silicon,      // 50 MHz ECE clock
+    input  wire        clk_software,     // async software domain
+    output reg  [31:0] innovation,       // novel solutions out
+    input  wire        resetn            // active-low resilience
+);
 
-### 🌊 [Quick-Rescue - Satellite Imaging & Routing](https://github.com/Yash1026-hash/Quick-Rescue)
-* **Full-Stack Engineering:** Developed a Python-based pathfinding system utilizing satellite imagery data to dynamically calculate safe routing during flood crises.
+  // Dual-domain synchronization fabric
+  always @(posedge clk_silicon or negedge resetn) begin
+    if (!resetn)
+      innovation <= 32'h0000_0000;
+    else
+      innovation <= innovation + 1;  // perpetual growth mindset
+  end
+
+endmodule
+```
 
 ---
 
-## 📊 Engineering Metrics & Analytics
+## 🧬 Dual-Domain Expertise
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash1026-hash&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash1026-hash&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 **Electronics & VLSI Engineering**
+
+| Category | Stack |
+|----------|-------|
+| **HDL & Design** | Verilog HDL, SystemVerilog, RTL Design, FSM Design |
+| **Verification** | UVM, ATPG, D-Algorithm, SCOAP |
+| **EDA Tools** | Vivado ML, ModelSim, Cadence Virtuoso, LTSpice |
+| **Physical Design** | Floorplanning, P&R, HPWL, RC-Grid, Thermal Modeling |
+| **DSP** | FIR/IIR Filters, FFT, DDS, CORDIC |
+| **Protocols** | AXI4-Stream, SPI, I2C, UART |
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 **Computer Science & AI Engineering**
+
+| Category | Stack |
+|----------|-------|
+| **Languages** | Python, C, C++, SQL, Bash |
+| **ML/DL** | PyTorch, TensorFlow, YOLOv8, Scikit-learn |
+| **Computer Vision** | OpenCV, Object Detection, Image Segmentation |
+| **DevOps & Tools** | Docker, FastAPI, Git, Linux, REST APIs |
+| **Embedded AI** | Raspberry Pi 4, ESP32, Edge AI Inference |
+| **Concepts** | RL, CNN, Transfer Learning, PID Control |
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎖️ Key Highlights
-* **Hackathon-Proven:** Multiple podium finishes in national-level technical hackathons (including IISc Bangalore & VR Siddhartha) for deploying real-world embedded software solutions.
-* **Academic Foundation:** Maintaining a solid **8.29 CGPA** while balancing active club leadership roles.
+## 🚀 Featured Projects
+
+<div align="center">
+
+### **VLSI & Hardware Design**
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎛️ FPGA DSP Processing Chain
+`SystemVerilog` `AXI4-Stream` `Vivado ML`
+
+Designed a 5-IP AXI4-Stream DSP pipeline on Artix-7 FPGA with DDS, FIR, CIC, FFT & CORDIC blocks. Implemented 31-tap Hamming-window FIR filter with ILA-based hardware debugging.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔥 Thermal-Aware VLSI Floorplanning
+`Python` `MATLAB`
+
+Hybrid PSO + Simulated Annealing optimizer for HPWL, routing congestion & thermal hotspot minimization using RC-grid modeling. Benchmarked on MCNC circuits.
+
+</td>
+<td width="33%" valign="top">
+
+### ✅ RTL & UVM Verification
+`SystemVerilog` `UVM` `Vivado`
+
+True Dual-Port RAM with BRAM inference on Zynq. Built complete UVM env (sequencer → driver → monitor → scoreboard → coverage) with ATPG & SCOAP analysis.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### **AI & Software Engineering**
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🚦 Smart Urban Traffic Density Analyzer
+`YOLOv8l` `Python` `Docker` `OpenCV`
+
+Real-time vehicle detection & traffic density pipeline with multi-threaded OpenCV. 🏆 **Top 3 at IISc Bangalore Urban Vision Hackathon 2024** (200+ teams).
+
+</td>
+<td width="33%" valign="top">
+
+### 🥭 Mango Disease Detection System
+`YOLOv8` `Python` `OpenCV`
+
+Multi-class crop disease detector trained on custom annotated mango leaf dataset. Designed for low-resource edge deployment in agricultural IoT.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔄 Chip Cycle — ASIC RL Environment
+`Python` `FastAPI` `Docker` `Open Env`
+
+OpenEnv-compliant RL environment where AI agents review ASIC design reports — synthesis QoR, STA debug, MCMM sign-off. Deployed on Hugging Face Spaces.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 System-On-Chip: Yashwanth
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    YASHWANTH SoC ARCHITECTURE                │
+├─────────────────────────────────────────────────────────────┤
+│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐   │
+│  │  VLSI    │  │   DSP    │  │   ML     │  │   SW     │   │
+│  │  RTL     │←→│  Engine  │←→│  Core    │←→│  Stack   │   │
+│  │  Design  │  │  (FPGA)  │  │ (YOLOv8) │  │ (Docker) │   │
+│  └──────────┘  └──────────┘  └──────────┘  └──────────┘   │
+│        └─────────────┬──────────────────────┘              │
+│                      ▼                                     │
+│           ┌─────────────────────┐                          │
+│           │  AXI4-Stream Bus    │                          │
+│           │  (Interconnect)     │                          │
+│           └─────────────────────┘                          │
+│                      │                                     │
+│           ┌──────────▼──────────┐                          │
+│           │   Problem Solver    │                          │
+│           │  Innovation Engine  │                          │
+│           └─────────────────────┘                          │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🏛️ Leadership & Community
+
+| Role | Organization | Period |
+|------|-------------|--------|
+| **Vice President** | Aparmaya Club (AI & Autonomous Systems), KL University | Jan 2024 – Present |
+| **Treasurer** | IEEE ComSoc Student Chapter, KL University | Jan 2025 – Present |
+
+> *Leading 30+ engineers across AI, robotics, VLSI & embedded systems. Organized "Samyak" national-level tech fest (200+ attendees). Reduced integration defects by 40% through structured code reviews.*
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | CGPA |
+|--------|------------|------|------|
+| **B.Tech ECE (VLSI Specialization)** | KL Deemed University, Hyderabad | May 2027 | 8.29/10 |
+| **Diploma ECE** | Anurag Engineering College, Telangana | 2024 | 9.18/10 |
+| **SSC** | ZPHS Konijerla, Telangana | 2021 | 10/10 |
+
+---
+
+## 🏆 Achievements
+
+```
+═══════════════════════════════════════════════════════════════
+  🥉  TOP 3 — IISc Bangalore Urban Vision Hackathon 2024
+      (200+ teams — AI-based traffic analytics)
+  
+  🥉  TOP 3 — VR Siddhartha Engineering College Hackathon 2023
+      (150+ teams — autonomous robotics)
+  
+  📝  AUTHORED technical content & IEEE outreach reaching 
+      1,000+ students across university community
+  
+  🎤  ORGANIZED 5+ workshops on ML, signal processing & 
+      communications as IEEE ComSoc Treasurer
+═══════════════════════════════════════════════════════════════
+```
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash1026-hash&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6f61&icon_color=ff6f61&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash1026-hash&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6f61&text_color=c9d1d9)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔄 *"Bridging the gap between Silicon and Software — one RTL block and one model at a time."*
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yash1026-hash&color=ff6f61&style=flat-square&label=Profile+Views)
+[![Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYash1026-hash&color=ff6f61)]()
+[![Open Source Love](https://img.shields.io/badge/-Open%20Source%20Enthusiast-ff6f61?style=flat-square)]()
+
+**Let's connect and build something extraordinary!** 🚀
+
+</div>
