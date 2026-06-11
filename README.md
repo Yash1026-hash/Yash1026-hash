@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=180§ion=header&text=Kamsani%20Yashwanth%20Chowdhary&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=ECE%20×%20CSE%20•%20RTL%20Design%20•%20FPGA%20•%20Computer%20Vision%20•%20ML&descAlignY=52&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=180§ion=header&text=Kamsani%20Yashwanth%20Chowdhary&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&RTL%20Design%20•%20FPGA%20•%20Computer%20Vision%20•%20ML&descAlignY=52&descAlign=50" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=700&color=F76C6C¢er=true&vCenter=true&width=650&lines=RTL+Designer+%7C+FPGA+Developer+%7C+Verification+Engineer;ML+Engineer+%7C+Computer+Vision+%7C+Edge+AI;Vice+President+%40+Aparmaya+Club;Treasurer+%40+IEEE+ComSoc;Top+3+%40+IISc+Bangalore+Hackathon+2024" alt="Typing SVG" /></a>
 
