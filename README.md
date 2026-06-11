@@ -1,29 +1,37 @@
-# ─── KAMSANI YASHWANTH CHOWDHARY ───
-Inside the Matrix: Where Deep Hardware Logic Meets High-End Visual Aesthetics.
+# ─── ⋆ 🪐 𝙆𝙄𝙍𝘼𝙉 𝙔𝘼𝙎𝙃𝙒𝘼𝙉𝙏𝙃 ───
 
-### ⚡ The Convergence of Two Worlds
-I operate at the intersection of complex physical systems and creative storytelling. By day, I architect digital circuits, optimize hardware floor-planning, and train edge AI models. By night, I craft seamless visual narratives, editing and directing high-fidelity media.
+<p align="center">
+  <b>Architecting Silicon. Directing Visuals. Engineering the Future.</b>
+</p>
+
+<p align="center">
+  I operate in the deliberate space where <b>deep hardware logic</b> meets <b>high-fidelity creative media</b>. By day, I design digital micro-architectures, optimize FPGA layouts, and train edge AI networks. By night, I color-grade, slice frames, and craft visual pacing that tells a story.
+</p>
 
 ---
 
-## 🛠️ The Architecture (Technical Proficiency)
+## 🎭 The Dual Persona
 
-<table>
+<table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>🌌 Hardware & Core Engineering</h4>
+      <h3>⚡ The Silicon Alchemist</h3>
+      <p><i>Manipulating electrons, optimizing layouts, and giving hardware eyes.</i></p>
       <ul>
-        <li><b>Languages:</b> Verilog HDL, Python, C++</li>
-        <li><b>VLSI & Tools:</b> Cadence, Vivado, LTSpice, FPGA Prototyping</li>
-        <li><b>Edge AI & Embedded:</b> OpenCV, Raspberry Pi, Docker, YOLO Architecture</li>
+        <li><b>Logic & Frameworks:</b> Verilog HDL, Python, C++, Docker</li>
+        <li><b>VLSI & Circuits:</b> Cadence, Vivado, LTSpice, FPGA</li>
+        <li><b>Edge Intelligence:</b> OpenCV, Raspberry Pi, YOLO Architectures</li>
+        <li><b>Current Obsidian Node:</b> Designing autonomous vision systems for standalone agricultural drones.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎬 Media & Interface Design</h4>
+      <h3>🎬 The Cinematic Weaver</h3>
+      <p><i>Capturing motion, mastering the timeline, and designing seamless experiences.</i></p>
       <ul>
-        <li><b>Post-Production:</b> DaVinci Resolve, Adobe Premiere Pro, CapCut</li>
-        <li><b>Aesthetics:</b> Executive Technical Sophistication, Minimalist UI/UX</li>
-        <li><b>Web/Creative Dev:</b> JavaScript, TailwindCSS, Frontend Optimization</li>
+        <li><b>The Suite:</b> DaVinci Resolve, Adobe Premiere Pro, CapCut</li>
+        <li><b>Aesthetic Code:</b> Executive Technical Sophistication</li>
+        <li><b>Front-End Canvas:</b> JavaScript, TailwindCSS, Fluid UI/UX</li>
+        <li><b>Current Timeline Render:</b> Directing clean, minimalist digital identities and high-impact tech narratives.</li>
       </ul>
     </td>
   </tr>
@@ -31,15 +39,21 @@ I operate at the intersection of complex physical systems and creative storytell
 
 ---
 
-## 💎 Current Focus & Initiatives
-* **Autonomous Edge Intelligence:** Developing standalone, vision-based aerial systems for agricultural analytics.
-* **Algorithmic VLSI Design:** Optimizing thermal floor-planning efficiency using advanced metaheuristics (PSO/SA).
-* **Cinematic Tech Storytelling:** Producing high-impact visual media assets and managing creative direction.
+## 🌌 Ongoing Vectors & Research
+
+* 🛸 **Edge Autonomy:** Teaching standalone drones how to scan, adapt, and navigate complex environments without cloud dependencies.
+* 🔋 **Intelligent Power:** Mapping out scalable FPGA-based battery management algorithms to keep hardware alive longer.
+* 🗺️ **Algorithmic Harmony:** Utilizing Simulated Annealing ($SA$) and Particle Swarm Optimization ($PSO$) to solve complex, multi-variable physical layout problems.
 
 ---
 
-## 📈 Engineering Analytics
+## 📊 The Transmission Dashboard
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Yash1026-hash&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash1026-hash&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <sub><i>"The best way to predict the future is to design the chip and direct the film yourself."</i></sub>
 </p>
