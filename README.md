@@ -1,4 +1,4 @@
-# KAMSANI YASHWANTH CHOWDHARY (KIRAN)
+# KAMSANI YASHWANTH CHOWDHARY 
 **Hardware-Software Integration Engineer | B.Tech in Electronics & Communication Engineering** *Specializing in VLSI, Edge AI, and Systems Engineering*
 
 [LinkedIn](https://linkedin.com/in/chowdhary) • [Email](mailto:your.email@example.com) • [Portfolio](https://github.com/Yash1026-hash/portfolio)
