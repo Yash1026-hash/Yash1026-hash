@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Hero Banner: Replace with your generated capsule-render or custom SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1020,312E81&height=280&section=header&text=KAMSANI%20YASHWANTH%20CHOWDHARY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Student%20%C2%B7%20VLSI%20Enthusiast%20%C2%B7%20AI%20for%20Chip%20Design&descAlignY=58&descAlign=62" alt="Yashwanth Chowdhary — ECE Student & VLSI Enthusiast" width="100%" />
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:312E81&height=240&section=header&text=KAMSANI%20YASHWANTH%20CHOWDHARY&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Student%20%C2%B7%20VLSI%20Enthusiast%20%C2%B7%20AI%20for%20Chip%20Design&descAlignY=58&descAlign=50" alt="Yashwanth Chowdhary — ECE Student & VLSI Enthusiast" width="100%" />
 
-<code>◉ Available for collaboration</code>
-&nbsp;
+<!-- CONTACT BADGES -->
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/[yourhandle]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/[yourhandle]"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<img src="https://img.shields.io/badge/%E2%97%89_Available_for_collaboration-333333?style=flat-square" alt="Available" />
 
 </div>
 
@@ -17,8 +17,8 @@
 
 <table>
 <tr>
-<td width="26%" align="center" valign="top">
-  <img src="https://github.com/Yash1026-hash.png?size=240" width="160" alt="Avatar" />
+<td width="26%" align="center" valign="middle">
+  <img src="https://github.com/Yash1026-hash.png?size=240" width="150" style="border-radius: 50%;" alt="Avatar" />
   <br/><br/>
   <code>Vijayawada, India</code>
 </td>
@@ -27,22 +27,17 @@
 **I’m an ECE student at KL University, Vijayawada, focused on VLSI and AI-driven chip design.**  
 I build **reinforcement learning environments and computer vision systems** for **semiconductor and real-world detection problems**.
 
-I care about clean architecture, developer experience, and shipping small, useful things that solve real engineering bottlenecks.
+I care about clean architecture, developer experience, and shipping small, useful things.
 
 <p>
-  <code>Python</code>
-  <code>PyTorch</code>
-  <code>OpenCV</code>
-  <code>Reinforcement Learning</code>
-  <code>VLSI</code>
-  <code>Docker</code>
+  <code>Python</code> <code>PyTorch</code> <code>OpenCV</code> <code>VLSI</code> <code>Docker</code>
 </p>
 
 <blockquote>
   <strong>⚡ Currently</strong><br/>
   🔭 Building <a href="https://github.com/Yash1026-hash/chipcycle-env"><strong>ChipCycle</strong></a> — an OpenEnv-compliant RL environment for AI-driven ASIC sign-off review<br/>
-  🌱 Learning <strong>multi-corner multi-mode (MCMM) timing closure and thermal-aware floorplanning</strong><br/>
-  💬 Ask me about <strong>VLSI design automation, RT-DETR, or hybrid PSO+SA optimization</strong>
+  🌱 Learning <strong>multi-corner multi-mode (MCMM) timing closure</strong><br/>
+  💬 Ask me about <strong>VLSI design automation or RT-DETR</strong>
 </blockquote>
 
 </td>
