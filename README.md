@@ -1,12 +1,14 @@
 <div align="center">
 
-<!-- Minecraft Blocky Background Banner -->
-<img src="https://images.unsplash.com/photo-1607513746994-51f730a44832?q=80&w=1200&auto=format&fit=crop" width="100%" style="border-radius: 10px; max-height: 220px; object-fit: cover;" alt="Minecraft Blocky Background" />
+<!-- Minecraft Scenic Banner -->
+<img src="https://images.unsplash.com/photo-1607513746994-51f730a44832?q=80&w=1200&auto=format&fit=crop" width="100%" style="border-radius: 12px; max-height: 200px; object-fit: cover;" alt="Minecraft Scenic Landscape" />
 
 <h1>Kamsani Yashwanth Chowdhary</h1>
 
+<p><b>VLSI Major · AI & Web Development</b></p>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=3CB371&center=true&vCenter=true&width=600&lines=VLSI+Major+%7C+RTL+%26+FPGA+Designer;AI+%26+Computer+Vision+Engineer;Web+Developer+%7C+FastAPI+%2B+Docker;Building+at+the+silicon%2Fsoftware+boundary" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=3CB371&center=true&vCenter=true&width=600&lines=VLSI+Major+%7C+RTL+%26+FPGA+Designer;AI+%26+Computer+Vision+Engineer;Web+Developer+%7C+FastAPI+%2B+Docker" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,9 +17,9 @@
 
 <br/>
 
-<a href="mailto:yashwanthchowdhary83@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/kamsani-yashwanth-chowdhary"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Yash1026-hash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:yashwanthchowdhary83@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/kamsani-yashwanth-chowdhary"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Yash1026-hash"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
