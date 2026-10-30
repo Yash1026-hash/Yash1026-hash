@@ -1,85 +1,119 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:312E81&height=240&section=header&text=KAMSANI%20YASHWANTH%20CHOWDHARY&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Student%20%C2%B7%20VLSI%20Enthusiast%20%C2%B7%20AI%20for%20Chip%20Design&descAlignY=58&descAlign=50" alt="Yashwanth Chowdhary — ECE Student & VLSI Enthusiast" width="100%" />
+<!-- Sleek UI Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=150&section=header&text=Kamsani%20Yashwanth&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" />
 
-<!-- CONTACT BADGES -->
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-<img src="https://img.shields.io/badge/%E2%97%89_Available_for_collaboration-333333?style=flat-square" alt="Available" />
+<h3>VLSI Major • AI & Web Development</h3>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=55FF55&center=true&vCenter=true&width=600&lines=VLSI+%7C+RTL+%26+FPGA+Design;AI+%7C+Computer+Vision+%26+Edge+AI;Web+%7C+FastAPI+%2B+Docker;Building+at+the+silicon%2Fsoftware+boundary" alt="Typing SVG" />
+</a>
+
+<p>📍 Hyderabad, Telangana</p>
+
+<a href="mailto:yashwanthchowdhary83@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/kamsani-yashwanth-chowdhary"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Yash1026-hash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-## 🧑‍🚀 About
+<!-- Clean UI Tech Stack -->
+## 🛠️ Tech Stack
 
+<div align="center">
+
+**💻 Languages & AI/Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,cpp,c,matlab,pytorch,tensorflow,opencv,fastapi,docker,git,linux" />
+
+<br/><br/>
+
+**🔌 VLSI & Hardware**
+<br/>
+<img src="https://img.shields.io/badge/Verilog-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/SystemVerilog-7B2FBE?style=flat-square" />
+<img src="https://img.shields.io/badge/RTL_Design-6A1F9E?style=flat-square" />
+<img src="https://img.shields.io/badge/UVM-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/FPGA_Vivado-FF6F00?style=flat-square&logo=xilinx&logoColor=white" />
+<img src="https://img.shields.io/badge/ATPG-00A845?style=flat-square" />
+
+</div>
+
+<br/>
+
+<!-- Controlled Scenic View Divider -->
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1607513746994-51f730a44832?q=80&w=1200&auto=format&fit=crop" height="120" width="100%" style="border-radius: 8px; object-fit: cover;" alt="Minecraft Scenic View" />
+  <br/>
+  <sub><i>⛏️ Every great build starts with a single block — mine starts with an RTL block.</i></sub>
+</div>
+
+<br/>
+
+<!-- Projects Grid -->
+## 🚀 Featured Projects
+
+<div align="center">
 <table>
 <tr>
-<td width="26%" align="center" valign="middle">
-  <img src="https://github.com/Yash1026-hash.png?size=240" width="150" style="border-radius: 50%;" alt="Avatar" />
-  <br/><br/>
-  <code>Vijayawada, India</code>
+<td width="50%" align="center" valign="top">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&section=header&text=FPGA+DSP+Chain&fontSize=16&fontColor=fff" width="90%" style="border-radius: 6px;" />
+  <br/>
+  <b><a href="https://github.com/Yash1026-hash">5-IP AXI4-Stream Pipeline</a></b><br/>
+  <sub>Artix-7 · DDS → FIR → CIC → FFT → CORDIC</sub>
 </td>
-<td width="74%" valign="top">
-
-**I’m an ECE student at KL University, Vijayawada, focused on VLSI and AI-driven chip design.**  
-I build **reinforcement learning environments and computer vision systems** for **semiconductor and real-world detection problems**.
-
-I care about clean architecture, developer experience, and shipping small, useful things.
-
-<p>
-  <code>Python</code> <code>PyTorch</code> <code>OpenCV</code> <code>VLSI</code> <code>Docker</code>
-</p>
-
-<blockquote>
-  <strong>⚡ Currently</strong><br/>
-  🔭 Building <a href="https://github.com/Yash1026-hash/chipcycle-env"><strong>ChipCycle</strong></a> — an OpenEnv-compliant RL environment for AI-driven ASIC sign-off review<br/>
-  🌱 Learning <strong>multi-corner multi-mode (MCMM) timing closure</strong><br/>
-  💬 Ask me about <strong>VLSI design automation or RT-DETR</strong>
-</blockquote>
-
+<td width="50%" align="center" valign="top">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=40&section=header&text=Traffic+Analyzer&fontSize=16&fontColor=fff" width="90%" style="border-radius: 6px;" />
+  <br/>
+  <b><a href="https://github.com/Yash1026-hash">🏆 IISc Bangalore Top 3</a></b><br/>
+  <sub>YOLOv8 + OpenCV Edge Deployment</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,3,5&height=40&section=header&text=RTL+%26+UVM&fontSize=16&fontColor=fff" width="90%" style="border-radius: 6px;" />
+  <br/>
+  <b><a href="https://github.com/Yash1026-hash">Dual-Port RAM Verification</a></b><br/>
+  <sub>Zynq FPGA · Full UVM env · ATPG</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&section=header&text=Mango+AI&fontSize=16&fontColor=fff" width="90%" style="border-radius: 6px;" />
+  <br/>
+  <b><a href="https://github.com/Yash1026-hash/MANGO">YOLOv8 · Ag-IoT Edge</a></b><br/>
+  <sub>Low-resource crop disease detection</sub>
 </td>
 </tr>
 </table>
+</div>
 
----
+<br/>
 
-## 🧰 Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-</p>
-
----
-
-## 📦 Selected Work
-
-| Project | What it does |
-| :--- | :--- |
-| **[ChipCycle](https://github.com/Yash1026-hash/chipcycle-env)** | OpenEnv-compliant RL environment where AI agents learn ASIC chip design sign-off review — from synthesis QoR analysis to MCMM triage. Built with FastAPI + Docker. |
-| **[MANGO](https://github.com/Yash1026-hash/MANGO)** | Computer vision pipeline for mango detection using RT-DETR and Faster R-CNN. Best model achieves **92.03% precision** and **91.86% mAP@50**. |
-| **[Thermal-Aware VLSI Floorplanning](https://github.com/Yash1026-hash/Hybrid-thermal-floor-planning-using-PSO-and-SA)** | Hybrid PSO + SA framework for thermal-aware VLSI floorplanning, minimizing area, wirelength, and peak on-die temperature. Benchmarked on MCNC HP. |
-| **[Portfolio](https://github.com/Yash1026-hash/portfolio)** | Personal portfolio site with a Japan-inspired aesthetic. |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash1026-hash&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=333&icon_color=555" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash1026-hash&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=333" alt="Top Languages" height="150" />
-</p>
-
----
+<!-- Leadership & Honors -->
+## 👔 Leadership & 🏆 Honors
 
 <div align="center">
-  <sub>Built with ☕ and a Space-UI-inspired mindset.</sub>
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+  <b>👔 Leadership</b><br/><br/>
+  🚀 Vice President — Aparmaya Club <i>(2024–Present)</i><br/>
+  💰 Treasurer — IEEE ComSoc <i>(2025–Present)</i>
+</td>
+<td width="50%" align="center" valign="top">
+  <b>🏆 Honors</b><br/><br/>
+  🥉 Top 3 — IISc Bangalore Hackathon 2024<br/>
+  🥉 Top 3 — VR Siddhartha Hackathon 2023<br/>
+  📡 IEEE Outreach — 1,000+ students reached
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- Minimal Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=100&section=footer" width="100%" />
 </div>
